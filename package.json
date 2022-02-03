@@ -1,0 +1,17 @@
+{
+  "name": "example-db2-storedproc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MAQU",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "morgan": "^1.10.0",
+    "odbc": "^2.4.1",
+    "sequelize-ibmi": "^6.8.0"
+  }
+}
